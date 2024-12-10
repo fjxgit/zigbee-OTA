@@ -7114,4 +7114,16 @@
     "otaHeaderString": "GBL zingo_lds_stoftmoln\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
     "releaseNotes": "https://ww8.ikea.com/ikeahomesmart/releasenotes/releasenotes.html"
   }
+  {
+    "fileName": "10082264-zingo_lds_stoftmoln-1.1.7.ota.ota.signed",
+    "fileVersion": 6,
+    "fileSize": 287178,
+    "originalUrl": "http://fw.ota.homesmart.ikea.net/global/GW1.0/01.21.031/bin/10082264-zingo_lds_stoftmoln-1.1.7.ota.ota.signed",
+    "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/IKEA/10082264-zingo_lds_stoftmoln-1.1.7.ota.ota.signed",
+    "imageType": 34,
+    "manufacturerCode": 4630,
+    "sha512": "c656737a4fd3464ed09d47887cde2b7390b13fe6423c06d5ceba5aa92d40dade89c49b4feabf89546585936c40543113bfcf720a4b09158e7e5fa924f7b385b8",
+    "otaHeaderString": "GBL zingo_lds_stoftmoln\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+    "releaseNotes": "https://ww8.ikea.com/ikeahomesmart/releasenotes/releasenotes.html"
+  }  
 ]
